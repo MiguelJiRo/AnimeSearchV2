@@ -8,9 +8,9 @@ const Header: React.FC<HeaderProps> = ({ onHelpClick }) => {
   return (
     <header className="w-full py-4 px-6 flex items-center justify-between glass-effect">
       <div className="flex items-center gap-3">
-        <img src="/logo.svg" alt="AnimeSearch Logo" className="w-12 h-12" />
+        <img src="/logo.svg" alt="Anime Lens Logo" className="w-12 h-12" />
         <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-          AnimeSearch
+          Anime Lens
         </h1>
       </div>
 

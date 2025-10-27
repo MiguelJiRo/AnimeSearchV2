@@ -19,7 +19,7 @@ const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
       >
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-3xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent">
-            Cómo usar AnimeSearch
+            Cómo usar Anime Lens
           </h2>
           <button
             onClick={onClose}

@@ -1,4 +1,4 @@
-# AnimeSearch V2
+# Anime Lens
 
 Una aplicación web moderna para buscar y identificar animes a partir de imágenes o capturas de pantalla.
 
